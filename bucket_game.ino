@@ -252,8 +252,4 @@ void drawRect(int x0, int y0, int w, int h, uint16_t color){
   void moveRect(int currX, int currY,int w,int h,uint16_t color){
     fillRect(currX,currY, w,h,color);
 }
-int randomnumber(int num){
-   
-
-}
 
