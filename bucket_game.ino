@@ -31,7 +31,7 @@ int y1 = 0;
 int scoreNum = 0;
 void setup() {
   // put your setup code here, to run once:
-Serial.begin(9600);
+Serial.begin(9600);//start up console
   Serial.print("Hello! ST77xx TFT Test");
 
   // Use this initializer if you're using a 1.8" TFT
